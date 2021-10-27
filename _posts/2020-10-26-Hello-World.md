@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello world!
+title: About 
 ---
 
-This is your first blog post--make it your own!
+This website is going to function as an experimental space to publish the texts I have been transcribing. 
