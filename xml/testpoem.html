@@ -18,7 +18,7 @@
   <!-- This <script> element references your XML file, and transforms it into HTML5. When you create a new XML file, you'll need to make a copy of this HTML template, and change the filename on line 19 below to point to your XML file. -->
     <script>
       var CETEIcean = new CETEI();
-      CETEIcean.getHTML5('template.xml', function(data) {
+      CETEIcean.getHTML5('testpoem.xml', function(data) {
         document.getElementById("TEI").innerHTML = "";
         document.getElementById("TEI").appendChild(data);
         CETEIcean.addStyle(document, data);
