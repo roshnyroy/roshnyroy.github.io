@@ -1,6 +1,6 @@
 ---
 layout: post
-title: About 
+title: First Blog Post // 10.27.21
 ---
 
-This website is going to function as an experimental space to publish the texts I have been transcribing. 
+Figuring out if this is going to work. 
