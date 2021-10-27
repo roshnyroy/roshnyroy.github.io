@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am interested in researching how migration impacts and works with/against our identities, languages, literacies, and choice to assimilate. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I also daydream and write poems every now and then. Shopping is a problem I have been dealing with for a while. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+mariaroy.r@northeastern.edu(mailto:mariaroy.r@northeastern.edu)
