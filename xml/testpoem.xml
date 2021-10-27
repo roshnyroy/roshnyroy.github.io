@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="poem.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+
+   <literature genre="poetry" xmlns="https://roshnyroy.github.io/ns/1.0">
+    
+    <title>Let's Think of Eggs</title>
+   
+       <author>Ogden Nash</author>
+    
+      <stanza> Let’s think of eggs—
+        They have no legs!
+        Chickens come from eggs,
+        But they have legs…</stanza>
+    
+      
+       <stanza>The plot thickens: 
+           Eggs come from chickens
+           But have no legs under ‘em—
+           What a conundrum!
+       </stanza>
+       
+   </literature>
