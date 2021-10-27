@@ -12,4 +12,4 @@ I also daydream and write poems every now and then. Shopping is a problem I have
 
 ### Contact me
 
-mariaroy.r@northeastern.edu(mailto:mariaroy.r@northeastern.edu)
+[mariaroy.r@northeastern.edu](mailto:mariaroy.r@northeastern.edu)
