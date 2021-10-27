@@ -8,7 +8,7 @@ I am interested in researching how migration impacts and works with/against our 
 
 ### More Information
 
-I also daydream and write poems every now and then. Shopping is a problem I have been dealing with for a while. 
+I also daydream and write poems every now and then. Shopping is a problem I have been dealing with for a while. For now, that's about it! 
 
 ### Contact me
 
