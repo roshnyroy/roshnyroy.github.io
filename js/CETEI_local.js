@@ -10,7 +10,7 @@ var CETEI = (function () {
       // namespace on the root element of your XML files.
       // If you want to use a different prefix instead of "mine",
       // remember to change it in line 15 below and in the CETEIcean_local.css file.
-      "mine": "http://[yourgithubsite]/ns/1.0"
+      "mine": "http://roshnyroy.github.io/ns/1.0"
     },
     "mine": {
       // The code below gives special treatment to particular XML elements, going
